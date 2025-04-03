@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bass-tab-creator/static/css/main.d1eb2102.css",
-    "main.js": "/bass-tab-creator/static/js/main.b953f3fd.js",
+    "main.css": "/bass-tab-creator/static/css/main.c566ef1b.css",
+    "main.js": "/bass-tab-creator/static/js/main.da44d5c1.js",
     "static/js/977.29700eb7.chunk.js": "/bass-tab-creator/static/js/977.29700eb7.chunk.js",
     "static/js/732.77587372.chunk.js": "/bass-tab-creator/static/js/732.77587372.chunk.js",
     "static/js/453.2a3696ff.chunk.js": "/bass-tab-creator/static/js/453.2a3696ff.chunk.js",
     "index.html": "/bass-tab-creator/index.html",
-    "main.d1eb2102.css.map": "/bass-tab-creator/static/css/main.d1eb2102.css.map",
-    "main.b953f3fd.js.map": "/bass-tab-creator/static/js/main.b953f3fd.js.map",
+    "main.c566ef1b.css.map": "/bass-tab-creator/static/css/main.c566ef1b.css.map",
+    "main.da44d5c1.js.map": "/bass-tab-creator/static/js/main.da44d5c1.js.map",
     "732.77587372.chunk.js.map": "/bass-tab-creator/static/js/732.77587372.chunk.js.map",
     "453.2a3696ff.chunk.js.map": "/bass-tab-creator/static/js/453.2a3696ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1eb2102.css",
-    "static/js/main.b953f3fd.js"
+    "static/css/main.c566ef1b.css",
+    "static/js/main.da44d5c1.js"
   ]
 }
